@@ -1,4 +1,2 @@
 # Title
 ## Colab
-
-Hello, world
